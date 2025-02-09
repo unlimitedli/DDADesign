@@ -8,7 +8,7 @@ This repository contains the official implementation of the following paper:
 
 <div>
     <h4 align="center">
-        <img src="./assets/teaser.png">
+        <img src="./assets/teaser.PNG">
     </h4>
 </div>
 
@@ -18,18 +18,18 @@ This repository contains the official implementation of the following paper:
 In this paper, we present a novel daylight-driven AI-aided architectural design method. Firstly, we formulate a method for generating massing models, producing architectural massing models using random parameters quickly. Subsequently, we integrate a daylight-driven facade design strategy, accurately determining window layouts and applying them to the massing models. Finally, we seamlessly combine a large-scale language model with a text-to-image model, enhancing the efficiency of generating visual architectural design renderings. Experimental results demonstrate that our approach supports architects' creative inspirations and pioneers novel avenues for architectural design development.
 
 
-## :hammer: Quick Start
 
-```
+## :four_leaf_clover: Download Dataset
 
-```
-
-### 2. Download Dataset
+We provide the daylighting dataset in ```./dataset``` for training. For more personal data, you can refer to ```./tools/daylighting_gen.gh``` for generation.
 
 
+
+## :hammer: Quick Training
+You can refer to the following repositories ([sd-scripts](https://github.com/kohya-ss/sd-scripts) and [lora-scripts](https://github.com/Akegarasu/lora-scripts) ) for training your models.
 
 ## :four_leaf_clover: Acknowledgments
-This project is distributed under the MIT License. Our work builds upon the foundation laid by others. We thank the contributions of the following projects that our code is based on
+This project is distributed under the MIT License. Our work builds upon the foundation laid by others. We thank the contributions of the SD community.
 
 ## :fountain_pen: Citation
 
