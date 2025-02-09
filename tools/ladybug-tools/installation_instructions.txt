@@ -1,0 +1,9 @@
+A full list of installation instructions for Windows and Mac can be found at:
+https://github.com/ladybug-tools/lbt-grasshopper/wiki
+
+Note that a free single-click installer is available for Windows only.
+To get the single-click installer, you must create an account on the Pollination
+platform and then download the Pollination Grasshopper installer,
+which comes complete with a copy of the latest version of Ladybug Tools
+and all simulation engines.
+https://www.pollination.cloud/grasshopper-plugin
