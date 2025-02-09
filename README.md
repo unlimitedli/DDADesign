@@ -21,7 +21,7 @@ In this paper, we present a novel daylight-driven AI-aided architectural design 
 
 ## :four_leaf_clover: Download Dataset
 
-We provide the daylighting dataset in ```./dataset``` for training. For more personal data, you can refer to ```./tools/daylighting_gen.gh``` for generation.
+We provide the daylighting dataset in ```./dataset``` for training. For more personal floorplan data, you can refer to ```./tools/daylighting_gen.gh``` to generate more corresponding daylighting maps.
 
 
 
